@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ruhul Amin</h1>
+ 
 
- <img width="750" height="500" alt="github1" src="https://github.com/user-attachments/assets/cb1ac2c5-62ed-4fb1-8b0c-59cb2b033c24" />
+ <img width="950" height="250" alt="github1" src="https://github.com/user-attachments/assets/cb1ac2c5-62ed-4fb1-8b0c-59cb2b033c24" />
 ">
 <h3 align="center">Professional & Creative Website Designer | Developer | WordPress Expert| Specialized in Designing and Developing Responsive user-friendly Websites for online presence for Individuals and Business Purpose.</h3>
 
