@@ -1,4 +1,4 @@
-### Hi there 👋, Ruhul Amin
+Ruhul Amin
 #### Professional & Creative Website Designer | Developer | WordPress Expert|
 ![Professional & Creative Website Designer | Developer | WordPress Expert|]( )
 
